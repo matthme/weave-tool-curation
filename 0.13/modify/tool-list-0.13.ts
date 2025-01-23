@@ -25,11 +25,11 @@ export default defineDevCollectiveToolList({
           url: "https://github.com/matthme/presence/releases/download/0.10.0/presence.webhapp",
           hashes: {
             happSha256:
-              "9ce385b71bd9e26944eb34e532e459ff32813a39637c14fce11ef2f45a37890c",
+              "2ba46f2f220450a89d76ad5dba18f42ba6cba26784da7405fbe32ce29a9c10c9",
             webhappSha256:
-              "165a7d19fce921333d342f96311e4264ca4d187f14a3a5e483a909a3297146d0",
+              "738b9f4cfa9d38db6fd7ceee7d80dcf696a609dba91836a34fa4270531f8e009",
             uiSha256:
-              "329d17b4435bf177158330db13a0cffb90e83e841e3a57514499da6bd9d6b4f8",
+              "58b6418c17dcba75c1b3d917d90b04aea6c6bdc4fa8d1a6f624fa49e894f2494",
           },
           changelog: "Updated to hdk 0.4.0",
           releasedAt: 1737625866822,
