@@ -31,6 +31,17 @@
                     },
                     "changelog": "Updated to hdk 0.4.0",
                     "releasedAt": 1737625866822
+                },
+                {
+                    "version": "0.10.1",
+                    "url": "https://github.com/matthme/presence/releases/download/0.10.1/presence.webhapp",
+                    "hashes": {
+                        "happSha256": "2ba46f2f220450a89d76ad5dba18f42ba6cba26784da7405fbe32ce29a9c10c9",
+                        "webhappSha256": "7cf4dca92b1bd2654237700af4f1e33a18cbd82c85e7f33d449da4ada35d5404",
+                        "uiSha256": "8c543d37596f018ed1694e9b69074a6a0ae506c30f101694fb93244313321edc"
+                    },
+                    "changelog": "Adds logic to reconcile mismatches between remote peer's audio/video tracks of us and what we actually have running locally",
+                    "releasedAt": 1739188020681
                 }
             ]
         }
