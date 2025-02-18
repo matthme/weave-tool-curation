@@ -45,7 +45,23 @@ export default defineDevCollectiveToolList({
             uiSha256:
               "8c543d37596f018ed1694e9b69074a6a0ae506c30f101694fb93244313321edc",
           },
-          changelog: "Adds logic to reconcile mismatches between remote peer's audio/video tracks of us and what we actually have running locally",
+          changelog:
+            "Adds logic to reconcile mismatches between remote peer's audio/video tracks of us and what we actually have running locally",
+          releasedAt: 1739188020681,
+        },
+        {
+          version: "0.10.2",
+          url: "https://github.com/matthme/presence/releases/download/0.10.2/presence.webhapp",
+          hashes: {
+            happSha256:
+              "2ba46f2f220450a89d76ad5dba18f42ba6cba26784da7405fbe32ce29a9c10c9",
+            webhappSha256:
+              "67c5a9eda83dfb3a35448f455c2aaba95d3d718033f743a184a69d9a0b9afd02",
+            uiSha256:
+              "26c9a750dc4411d03f1771ed0c8f0a9735b9b9a3ed40144f812a983083955973",
+          },
+          changelog:
+            "- Adds logging\n- Adds graph to display logs in real-time\n- Adds option to export logs\n- Adds option to change audio and video source\n- Make buttons more intuitive\n- Fix bug where connection status can get stuck at SdpExchange",
           releasedAt: 1739188020681,
         },
       ],
