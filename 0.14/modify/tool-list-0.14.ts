@@ -25,7 +25,7 @@ export default defineDevCollectiveToolList({
           url: "https://github.com/matthme/presence/releases/download/0.11.0/presence.webhapp",
           hashes: {
             happSha256:
-              "a0fea98d69eedb93f50770ed344452aecf4d6efc1371606251fe73bae30b80e3",
+              "283bc3dc47d9edb41f6a74bc657c17bcf039c7b72bfc291d2d5ebd6a9efe613c",
             webhappSha256:
               "0f7e632b7fb92e45c48355753273024b2473db718eff6111938bb7783edd26b7",
             uiSha256:
