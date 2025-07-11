@@ -44,7 +44,7 @@ export default defineDevCollectiveToolList({
       description:
         "Chat app that supports channels, direct messages to friends and threads at the side in panels. It's time for fun and test, rhyming is allowed. And above all what is best - it's peer-to-peer (not in the cloud). Still it is experimental though - not expecting should you therefore dare, being able to re-import your data (this is alpha, note, not beta) once a newer version is out there.",
       icon: "https://codeberg.org/matthme/rhymez/raw/branch/main/ui/icon.png?raw=true",
-      tags: ["chate", "messages", "message", "threads", "channels"],
+      tags: ["chat", "messages", "message", "threads", "channels"],
       versions: [
         {
           version: "0.1.0",
