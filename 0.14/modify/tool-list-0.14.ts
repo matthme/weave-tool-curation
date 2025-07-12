@@ -47,6 +47,21 @@ export default defineDevCollectiveToolList({
       tags: ["chat", "messages", "message", "threads", "channels"],
       versions: [
         {
+          version: "0.1.1",
+          url: "https://codeberg.org/matthme/rhymez/releases/download/0.1.1/rhymez.webhapp",
+          hashes: {
+            happSha256:
+              "bbf796ebe322eca972cb32175881c2e5f6d8972e465863653f6e2d87502d0ff8",
+            webhappSha256:
+              "22052ef76caa7ba06bfa21fde43b6b60a281e22c4e66f7a50896fb1a06c1e463",
+            uiSha256:
+              "36b038fcd5c633f866ce5da8a95a4ac1b43899218a8f81b89732564b2f35aa80",
+          },
+          changelog:
+            "- adds support for sending images\n- increase font-size for better readability\n- fix CSS issue in case of very long, overflowing non-whitespace words\n- fix notification content",
+          releasedAt: 1752333733357,
+        },
+        {
           version: "0.1.0",
           url: "https://codeberg.org/matthme/rhymez/releases/download/0.1.0/rhymez.webhapp",
           hashes: {
