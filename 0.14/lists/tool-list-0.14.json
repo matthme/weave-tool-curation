@@ -50,6 +50,17 @@
             ],
             "versions": [
                 {
+                    "version": "0.1.2",
+                    "url": "https://codeberg.org/matthme/rhymez/releases/download/0.1.2/rhymez.webhapp",
+                    "hashes": {
+                        "happSha256": "bbf796ebe322eca972cb32175881c2e5f6d8972e465863653f6e2d87502d0ff8",
+                        "webhappSha256": "b3dd118c58d5b2721db6ed04cdfaa571705ba779e7cbe23fae72c53cf7b2eec2",
+                        "uiSha256": "989252a49cc47e250485f6afbe030dee9b2fb3c86944d7a61df087630a3272ce"
+                    },
+                    "changelog": "- add option to attach weave assets to messages\n- add typing indicators\n- add option to pin weave assets to channels\n- improve blockquote appearance\n- add tooltips for links\n- display weave URLs as links\n- don't open a thread if text has been selected",
+                    "releasedAt": 1752422505899
+                },
+                {
                     "version": "0.1.1",
                     "url": "https://codeberg.org/matthme/rhymez/releases/download/0.1.1/rhymez.webhapp",
                     "hashes": {
