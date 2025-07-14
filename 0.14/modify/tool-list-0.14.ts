@@ -47,18 +47,18 @@ export default defineDevCollectiveToolList({
       tags: ["chat", "messages", "message", "threads", "channels"],
       versions: [
         {
-          version: "0.1.3",
-          url: "https://codeberg.org/matthme/rhymez/releases/download/0.1.3/rhymez.webhapp",
+          version: "0.1.4",
+          url: "https://codeberg.org/matthme/rhymez/releases/download/0.1.4/rhymez.webhapp",
           hashes: {
             happSha256:
               "bbf796ebe322eca972cb32175881c2e5f6d8972e465863653f6e2d87502d0ff8",
             webhappSha256:
-              "b08c8f18648e1aac55b1934f2fd89efc3d4b00f41c16cdd8eb3b61a4c0d6f0ae",
+              "88d9e6c77f320e906ce6027840968e73b3b53de0b21b03d0ad3345f0d72bcef2",
             uiSha256:
-              "3463529b1ed5ac2282772c7254011b78d0c5583caf377695ed049ba4aa92550a",
+              "2ec1c69e2a6386cd109381c528ae1e87981aa22210b8b9c091417ab1bced6bde",
           },
           changelog:
-            "- improve the behavior of showing which message a message refers to\n- handle error case when decrypting of DM messages fails\n- handle error case if assets pinned to a channel fail to load",
+            "- fixed weave links getting broken in messages\n- improve thread top indicators",
           releasedAt: 1752498739723,
         },
         {
