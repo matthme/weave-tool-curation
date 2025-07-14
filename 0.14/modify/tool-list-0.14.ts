@@ -47,6 +47,21 @@ export default defineDevCollectiveToolList({
       tags: ["chat", "messages", "message", "threads", "channels"],
       versions: [
         {
+          version: "0.1.3",
+          url: "https://codeberg.org/matthme/rhymez/releases/download/0.1.3/rhymez.webhapp",
+          hashes: {
+            happSha256:
+              "bbf796ebe322eca972cb32175881c2e5f6d8972e465863653f6e2d87502d0ff8",
+            webhappSha256:
+              "b08c8f18648e1aac55b1934f2fd89efc3d4b00f41c16cdd8eb3b61a4c0d6f0ae",
+            uiSha256:
+              "3463529b1ed5ac2282772c7254011b78d0c5583caf377695ed049ba4aa92550a",
+          },
+          changelog:
+            "- improve the behavior of showing which message a message refers to\n- handle error case when decrypting of DM messages fails\n- handle error case if assets pinned to a channel fail to load",
+          releasedAt: 1752498739723,
+        },
+        {
           version: "0.1.2",
           url: "https://codeberg.org/matthme/rhymez/releases/download/0.1.2/rhymez.webhapp",
           hashes: {
