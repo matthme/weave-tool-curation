@@ -58,7 +58,7 @@
                         "uiSha256": "2ec1c69e2a6386cd109381c528ae1e87981aa22210b8b9c091417ab1bced6bde"
                     },
                     "changelog": "- fixed weave links getting broken in messages\n- improve thread top indicators",
-                    "releasedAt": 1752498739723
+                    "releasedAt": 1752531808185
                 },
                 {
                     "version": "0.1.2",

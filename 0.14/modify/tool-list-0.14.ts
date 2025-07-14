@@ -59,7 +59,7 @@ export default defineDevCollectiveToolList({
           },
           changelog:
             "- fixed weave links getting broken in messages\n- improve thread top indicators",
-          releasedAt: 1752498739723,
+          releasedAt: 1752531808185,
         },
         {
           version: "0.1.2",
