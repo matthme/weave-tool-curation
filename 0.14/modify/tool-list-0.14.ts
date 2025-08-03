@@ -47,6 +47,21 @@ export default defineDevCollectiveToolList({
       tags: ["chat", "messages", "message", "threads", "channels"],
       versions: [
         {
+          version: "0.1.5",
+          url: "https://codeberg.org/matthme/rhymez/releases/download/0.1.5/rhymez.webhapp",
+          hashes: {
+            happSha256:
+              "bbf796ebe322eca972cb32175881c2e5f6d8972e465863653f6e2d87502d0ff8",
+            webhappSha256:
+              "3c6b80e6377606ea59400586a99078d875af653fb50c428a03789c8ac17cfe1d",
+            uiSha256:
+              "0a3068195c32760a857d34f3da54f4abe7c8cf5329d3da17a0a97f86a6c5501e",
+          },
+          changelog:
+            "- adds support for asset-views of public channels and threads\n- fixes a bug where moss invite links would not be displayed correctly\n- fixes a bug where the wrong person could get @pinged if their nickname contains another persons nickname as a substring",
+          releasedAt: 1754250721779,
+        },
+        {
           version: "0.1.4",
           url: "https://codeberg.org/matthme/rhymez/releases/download/0.1.4/rhymez.webhapp",
           hashes: {
