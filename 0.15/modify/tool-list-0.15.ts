@@ -47,14 +47,14 @@ export default defineDevCollectiveToolList({
       versions: [
         {
           version: "0.13.0",
-          url: "https://github.com/matthme/presence/releases/download/0.12.0-dev.0/presence.webhapp",
+          url: "https://github.com/matthme/presence/releases/download/0.13.0/presence.webhapp",
           hashes: {
             happSha256:
               "805dffb6a7d037ad24f7ee11bc2e3c343b1d353a76b196cac9cebc65a938f93c",
             webhappSha256:
-              "5195acad86408677f8f0d1995612d2cfd2262aa7be93637cfa80167ee377e8d2",
+              "d87366533178400500142191351dc8cae1528f16add5b7b26934abddfc1e7bff",
             uiSha256:
-              "d997251f1a873a7618350136f8fdca78f843ba73564cae49d83ad8b23c898fab",
+              "93f505278a289e549574dfdba4e55d16f86361f880ebd7c6073d6083878897c5",
           },
           changelog: "Updated to Moss 0.15.0",
           releasedAt: 1766195859731,
