@@ -6,10 +6,10 @@ const curationListJSON = JSON.stringify(curationListObject, undefined, 4);
 const toolListJSONJSON = JSON.stringify(toolListObject, undefined, 4);
 
 const curationListActual = fs.readFileSync(
-  "./lists/curations-0.14.json",
+  "./lists/curations-0.15.json",
   "utf-8"
 );
-const toolListActual = fs.readFileSync("./lists/tool-list-0.14.json", "utf-8");
+const toolListActual = fs.readFileSync("./lists/tool-list-0.15.json", "utf-8");
 
 if (curationListJSON !== curationListActual)
   throw new Error(
