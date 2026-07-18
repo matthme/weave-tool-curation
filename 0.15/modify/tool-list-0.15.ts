@@ -12,7 +12,7 @@ export default defineDevCollectiveToolList({
   },
   tools: [
     {
-      id: "matthme.rhymez",
+      id: "matthme.wordcondenser",
       versionBranch: "0.3.x",
       title: "Word Condenser",
       subtitle: "Creating new language together",
