@@ -19,7 +19,7 @@ export default defineDevCollectiveToolList({
       description:
         "The Word Condenser is an app designed to collectively condense latent [term that yet needs to be condensed] dissolved in the grammatical space of human collectives.\n\nJust as glasses condense water droplets dissolved in warm humid air when entering a cozy pub in winter, the Word Condenser condenses words and sayings that are latently dissolved across the humid space of human experience and imagination.",
       icon: "https://github.com/matthme/wordcondenser/blob/develop/ui/icon.png?raw=true",
-      tags: ["chat", "messages", "message", "threads", "channels"],
+      tags: ["language", "words", "condensing"],
       versions: [
         {
           version: "0.3.0",
