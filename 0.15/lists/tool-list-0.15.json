@@ -34,6 +34,17 @@
                     },
                     "changelog": "For Moss 0.15 (Holochain 0.6)",
                     "releasedAt": 1784402581212
+                },
+                {
+                    "version": "0.3.1",
+                    "url": "https://github.com/matthme/wordcondenser/releases/download/0.3.1/word-condenser.webhapp",
+                    "hashes": {
+                        "happSha256": "42aaf108f36944cf9764682d98b87ceb3706fe8b4d339cdebcda21cff126e94b",
+                        "webhappSha256": "caff22b54d1057868a365c66ac16960803d9919cf6d2f8d2ee2fdba14de84edb",
+                        "uiSha256": "d9eba1f8bc741591301ea50e60b7e1fb9d719baf4cd2c97759f54230e592b249"
+                    },
+                    "changelog": "Added missing icon.png",
+                    "releasedAt": 1784665241448
                 }
             ]
         },
