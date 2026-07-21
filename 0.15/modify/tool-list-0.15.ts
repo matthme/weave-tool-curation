@@ -49,6 +49,20 @@ export default defineDevCollectiveToolList({
           changelog: "Added missing icon.png",
           releasedAt: 1784665241448,
         },
+        {
+          version: "0.3.2",
+          url: "https://github.com/matthme/wordcondenser/releases/download/0.3.2/word-condenser.webhapp",
+          hashes: {
+            happSha256:
+              "42aaf108f36944cf9764682d98b87ceb3706fe8b4d339cdebcda21cff126e94b",
+            webhappSha256:
+              "6719a72b0dc37282f4645fcefc5b85b6c2acd2ada5fb3ae89d76ee1f27265a9c",
+            uiSha256:
+              "ad4127ae1402250e98a6b1d71439cdf7c5550a08bbeb50f82743cd9b22bb5857",
+          },
+          changelog: "fixed compile error",
+          releasedAt: 1784672052448,
+        },
       ],
     },
     {
