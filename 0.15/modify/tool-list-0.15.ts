@@ -17,7 +17,7 @@ export default defineDevCollectiveToolList({
       title: "Word Condenser",
       subtitle: "Creating new language together",
       description:
-        "The Word Condenser is an app designed to collectively condense latent [term that yet needs to be condensed] dissolved in the grammatical space of human collectives.\n\nJust as glasses condense water droplets dissolved in warm humid air when entering a cozy pub in winter, the Word Condenser condenses words and sayings that are latently dissolved across the humid space of human experience and imagination.",
+        "## Overview\n\nThe Word Condenser is an app designed to collectively condense latent [term that yet needs to be condensed] dissolved in the grammatical space of human collectives.\n\n## Features\n\n- Create a \"Craving\"\n- Add associations\n- Reflections & Comments\n- Propose suitable words & expressions",
       icon: "https://github.com/matthme/wordcondenser/blob/develop/ui/icon.png?raw=true",
       tags: ["language", "words", "condensing"],
       versions: [
@@ -71,7 +71,7 @@ export default defineDevCollectiveToolList({
       title: "Rhymez",
       subtitle: "Threaded Chat and DMs",
       description:
-        "Chat app that supports channels, direct messages to friends and threads at the side in panels. It's time for fun and test, rhyming is allowed. And above all what is best - it's peer-to-peer (not in the cloud). Still it is experimental though - not expecting should you therefore dare, being able to re-import your data (this is alpha, note, not beta) once a newer version is out there.",
+        "## Overview\n\nRhymez is a chat app that supports group channels and encrypted direct messages with threads.\n\n## Features\n\n- Group channels\n- Encrypted direct messages\n- Pictures and Weave Assets attachments\n- Markdown formatting\n- Threads UI in sidepanel",
       icon: "https://codeberg.org/matthme/rhymez/raw/branch/main/ui/icon.png?raw=true",
       tags: ["chat", "messages", "message", "threads", "channels"],
       versions: [
