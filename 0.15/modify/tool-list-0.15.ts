@@ -17,7 +17,7 @@ export default defineDevCollectiveToolList({
       title: "Word Condenser",
       subtitle: "Creating new language together",
       description:
-        "## Overview\n\nThe Word Condenser is an app designed to collectively condense latent [term that yet needs to be condensed] dissolved in the grammatical space of human collectives.\n\n## Features\n\n- Create a \"Craving\"\n- Add associations\n- Reflections & Comments\n- Propose suitable words & expressions",
+        "## Overview\n\nThe Word Condenser is an app designed to collectively condense latent [term that yet needs to be condensed] dissolved in the shared experiential space of human collectives.\n\n## Features\n\n- Create a \"Craving\"\n- Add associations\n- Reflections & Comments\n- Propose suitable words & expressions",
       icon: "https://github.com/matthme/wordcondenser/blob/develop/ui/icon.png?raw=true",
       tags: ["language", "words", "condensing"],
       versions: [
